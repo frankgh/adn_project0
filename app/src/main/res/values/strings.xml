@@ -9,13 +9,7 @@
     <string name="main_activity_xyz_reader_button">XYZ Reader</string>
     <string name="main_activity_capstone_button">Capstone: My Own App</string>
 
-    <string name="spotify_streamer_launch_message">This button will launch the Spotify Streamer App</string>
-    <string name="scores_app_launch_message">This button will launch the Scores App</string>
-    <string name="library_app_launch_message">This button will launch the Library App</string>
-    <string name="build_it_bigger_launch_message">This button will launch the Build It Bigger App</string>
-    <string name="xyz_reader_launch_message">This button will launch the XYZ Reader App</string>
-    <string name="capstone_launch_message">This button will launch my Capstone App!</string>
-
+    <string name="app_launch_message">This button will launch %s!</string>
     <string name="wut">wut?</string>
 
     <string name="snackbar_text">Action</string>
