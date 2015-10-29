@@ -10,7 +10,6 @@
     <string name="main_activity_capstone_button">Capstone: My Own App</string>
 
     <string name="app_launch_message">This button will launch %s!</string>
-    <string name="wut">wut?</string>
 
     <string name="snackbar_text">Action</string>
 </resources>
