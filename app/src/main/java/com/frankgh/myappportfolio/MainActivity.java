@@ -42,8 +42,10 @@ public class MainActivity extends AppCompatActivity {
                     messageId = R.string.build_it_bigger_launch_message;
                 } else if (view == xyzReaderButton) {
                     messageId = R.string.xyz_reader_launch_message;
-                } else {
+                } else if (view == capstoneButton) {
                     messageId = R.string.capstone_launch_message;
+                } else {
+                    messageId = R.string.wut;
                 }
 
                 showSnackbar(view, messageId, snackbarText);

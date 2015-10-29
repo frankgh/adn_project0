@@ -16,5 +16,7 @@
     <string name="xyz_reader_launch_message">This button will launch the XYZ Reader App</string>
     <string name="capstone_launch_message">This button will launch my Capstone App!</string>
 
+    <string name="wut">wut?</string>
+
     <string name="snackbar_text">Action</string>
 </resources>
