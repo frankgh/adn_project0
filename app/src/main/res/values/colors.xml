@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="frankghButtonBackgroundColor">#389ed8</color>
+    <color name="frankghButtonBorderColor">#007cc2</color>
+    <color name="frankghButtonBackgroundSelectedColor">#64ACD8</color>
+    <color name="frankghActivityBackgroundColor">#074675</color>
+
+    <color name="frankghHighlightButtonBackgroundColor">#F44336</color>
+    <color name="frankghHighlightButtonBorderColor">#C62828</color>
+    <color name="frankghHighlightButtonBackgroundSelectedColor">#E57373</color>
+</resources>
