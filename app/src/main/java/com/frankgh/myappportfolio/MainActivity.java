@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
     public void showSnackbar(final View view) {
         if (view instanceof Button) {
             final Button button = (Button) view;
-            String message = String.format(getString(R.string.app_launch_message), button.getText());
+            final String message = String.format(getString(R.string.app_launch_message), button.getText());
 
             Snackbar.make(view, message, Snackbar.LENGTH_LONG)
                     .setAction(getString(R.string.snackbar_text), null)
